@@ -1,0 +1,41 @@
+
+
+
+/* this is new form of annotation*/
+
+
+body{
+    margin-left: 200px;
+    background-color: mediumpurple;
+}
+.emoticoncat{
+    background-color: rgb(218, 177, 101);
+    position:sticky;
+    position: fixed;
+    margin-right: 1200px;
+}
+.listcat{
+    background-color: rgb(195, 236, 207);
+    font-size: 1rem;
+    position: sticky;
+    margin-top: 3rem;
+    margin-right: 200px;
+}
+h1{
+    text-align: center;
+    font-size: 1rem;
+    color: black;
+    font-family: "Play", serif;
+    font-weight: 400;
+    font-style: normal;
+   
+}
+h1:hover{
+    color:greenyellow;
+    font-size: 3rem;
+    cursor: progress;
+}
+.ikyklk{
+    outline-color: black;
+    outline-width: 3px;
+}
